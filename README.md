@@ -30,14 +30,15 @@ For 20% of the score, it is guaranteed that N ≤ 100.
 For further 30% of the score, it is guaranteed that N ≤ 1000.
 For the rest of the 50% of the score, no extra guarantees. That is, N ≤ 105.
 
-Example
+#Example
 Input 1:
 1
 3 2 1
 1 2 3
-
 Output 1:
 2
+
+
 
 Input 2:
 2
@@ -45,7 +46,6 @@ Input 2:
 4 6 12 3 9
 1 10 10
 20
-
 Output 2:
 3
 0
